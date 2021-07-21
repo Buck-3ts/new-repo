@@ -1,4 +1,6 @@
 from random import shuffle #the shuffle function allows us shuffle the deck
+
+print("welcome")
 def create_deck():
     #the first step is to create a card deck
     deck=[]
